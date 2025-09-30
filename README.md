@@ -3,4 +3,7 @@ This repository, contains all the technical components of my bachelor thesis, ti
 
 This repository serves as the initial publishing chanel for my bachelor thesis.
 
-I advise you, to read the reports included in the files. By doing that, you can get clear insights about the code, the way to use, the right environment.
+Two folders are contained in the .zip file, "Global Development Analysis Google Colab (1182)", which contains all the Python materials, and "Global Development Analysis RStudio (1182)", which contains all the R/RStudio materials.
+Download the .zip file, and extract the folders. 
+
+NOTE: PLEASE READ THE REPORTS (README.md) INCLUDED IN THE FOLDERS. It is necessary to do so, because it will provide clear insights about how to use the materials.
